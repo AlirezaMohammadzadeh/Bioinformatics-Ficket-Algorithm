@@ -1,2 +1,2 @@
-AUT Master Bioinformatics course final project
+AUT Master Bioinformatics course final project\n
 Ficket algorithm
