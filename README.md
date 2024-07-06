@@ -1,1 +1,2 @@
-AUT Master Bioinformatics course final project
+#AUT Master Bioinformatics course final project
+##Ficket algorithm
